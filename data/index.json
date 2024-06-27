@@ -1,0 +1,47 @@
+{
+    "projects":[
+        {  
+            "name":"Calculator",
+            "github":"https://github.com/caitlin-dalwai/Calculator-JS.git",
+            "vercel":"https://calculator-js-pearl.vercel.app/",
+            "description":"A simple calculator built using JavaScript, HTML, and CSS. One of the first projects I used javaScript in",
+            "image":"https://i.postimg.cc/tCNJTqGJ/calc.png"
+        },
+        {  
+            "name":"BMI Calculator",
+            "github":"https://github.com/caitlin-dalwai/BMI-calculator.git",
+            "vercel":"https://bmi-calculator-omega-lilac.vercel.app/",
+            "description":"A BMI calculator built using HTML, CSS and javaScript to calculate a persons BMI result",
+            "image":"https://i.postimg.cc/gkv0tvzn/bmi-calc.png"
+        },
+        {  
+            "name":"Temperature Converter",
+            "github":"https://github.com/caitlin-dalwai/Temperature.git",
+            "vercel":"https://temperature-mocha.vercel.app/",
+            "description":"A temperature converter built using HTML, CSS and javaScript to convert celcius to fahrenheit",
+            "image":"https://i.postimg.cc/J4nQ84F3/temp-convertor.png"
+        },
+        {  
+            "name":"Portfolio Project",
+            "github":"https://github.com/caitlin-dalwai/Bootstrap-Project.git",
+            "vercel":"https://bootstrap-project-drab.vercel.app/index.html",
+            "description":"My first project at Life Choices Academy. This project was built using HTML, CSS and Bootstrap",
+            "image":"https://i.postimg.cc/VLnNZ29q/portflio.png"
+        },
+       
+        {  
+            "name":"Swegga Project",
+            "github":"https://github.com/caitlin-dalwai/swegga.git",
+            "vercel":"https://swegga-tau.vercel.app/",
+            "description":"This is a task where I replicated a webpage from scratch. This project is built using HTML, CSS and javaScript",
+            "image":"https://i.postimg.cc/v8pDG5Gt/swegga-pf.png"
+        },
+        {  
+            "name":"E-commerce Website",
+            "github":"https://github.com/caitlin-dalwai/eCom-.git",
+            "vercel":"https://e-com-seven-zeta.vercel.app/HTML/admin.html",
+            "description":"This project is built using HTML, CSS and javascript. Javascript is used to add functionality to the products,cart and admin page",
+            "image":"https://i.postimg.cc/B6ZsSQz3/ecom-pf.png"
+        }
+    ]
+}
